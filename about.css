@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 28px;
+    /* margin-right: 700px; */
+    /* border: 2px solid rgb(71, 0, 236); */
+}
+
+.menu {
+    /* border: 2px solid rgb(34, 28, 28); */
+    margin-left: 750px;
+    padding-right: 100px;
+    text-align: left;
+}
+
+.menu ul {
+    display: flex;
+    font-size: 25px;
+    /* border: 1px solid rgb(255, 61, 61); */
+}
+
+.menu li {
+    margin-left: 70px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
